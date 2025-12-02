@@ -26,7 +26,7 @@ catch (IOException e){
 try {
     FileWriter fw = new FileWriter("data.txt");
 
-    fw.write("Hello I am Ayush Sharma");
+    fw.write("Hello I am Abhishekh yadav");
     fw.close();
 }
 catch (IOException e){
